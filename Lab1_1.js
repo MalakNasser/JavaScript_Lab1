@@ -1,4 +1,3 @@
-
 var firstName = prompt("Enter your first name:");
 var lastName = prompt("Enter your last name:");
 var confirmFullName = confirm("Is your full name " + firstName + " " + lastName + "?");
